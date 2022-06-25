@@ -1,1 +1,1 @@
-current user
+list of current directory
