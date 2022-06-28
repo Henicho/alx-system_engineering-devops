@@ -1,1 +1,1 @@
-last directory the shell looks into
+ counts the number of directories
