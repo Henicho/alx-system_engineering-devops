@@ -1,2 +1,2 @@
 #!/bin/bash
- echo c"hello $USER"
+ echo "hello $USER"
