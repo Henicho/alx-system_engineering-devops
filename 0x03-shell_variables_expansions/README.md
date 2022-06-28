@@ -1,1 +1,1 @@
- prints hello user
+last directory the shell looks into
