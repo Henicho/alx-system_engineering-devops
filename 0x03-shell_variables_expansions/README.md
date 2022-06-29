@@ -1,1 +1,1 @@
-prints the result of the addition
+script that prints the result of a variabel
