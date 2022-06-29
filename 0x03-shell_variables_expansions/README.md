@@ -1,1 +1,1 @@
-script that prints the result of a variabel
+script that displays the result of BREATH to the power LOVE
